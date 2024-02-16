@@ -1,0 +1,33 @@
+Al Alawi, A. (2022). PENGEMBANGAN APLIKASI MOBILE E-COMMERCE PRODUK RISET UNIVERSITAS LAMPUNG MENGGUNAKAN METODE SCRUM (PUBLIC APPS).
+
+Permana, F. M. (2022). Hilirisasi Produk Penelitian Universitas Lampung Menggunakan Platform E-Commerce Berbasis Mobile (Research Apps).
+
+Ningsih, T. I., & Sanjaya, C. B. (2023). APLIKASI PEMBAYARAN SEKOLAH MENGGUNAKAN PAYMENT GATEWAY TRIPAY BERBASIS ANDROID. Kohesi: Jurnal Sains dan Teknologi, 1(1), 71-80.
+
+Eviani, I., & Hidayat, Y. R. (2021). Pengaruh Sistem Pelacakan Online dan Ketepatan Waktu Pengiriman Terhadap Kepuasan Pelanggan (Studi Kasus J&T Express Kota Baru Bekasi). Jurnal Manajemen Logistik, 1(1), 11-19.
+
+Nugraha, W., & Syarif, M. (2018). Penerapan Metode Prototype Dalam Perancangan Sistem Informasi Penghitungan Volume Dan Cost Penjualan Minuman Berbasis Website. JUSIM (Jurnal Sistem Informasi Musirawas), 3(2), 94-101.
+
+Nursaid, F. F., Brata, A. H., & Kharisma, A. P. (2020). Pengembangan Sistem Informasi Pengelolaan Persediaan Barang Dengan ReactJS Dan React Native Menggunakan Prototype (Studi Kasus: Toko Uda Fajri). Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer, 4(1), 46-55.
+
+Flutter. (2023). Flutter. diambil dari flutter.dev: https://flutter.dev/
+
+Flutter. (2022). Flutter 3.0.0 release notes. diambil dari docs.flutter.dev: https://docs.flutter.dev/release/release-notes/release-notes-3.0.0
+
+Midtrans. (2023). Midtrans. diambil dari midtrans.com: https://midtrans.com/
+
+RajaOngkir. (2023). RajaOngkir. diambil dari rajaongkir.com: https://rajaongkir.com/
+
+Get. (2023). Get. diambil dari pub.dev: https://pub.dev/packages/get
+
+GetX Pattern. (2023). GetX Pattern. diambil dari: https://kauemurakami.github.io/getx_pattern/
+
+Puspitasari, T. M. M., & Maulina, D. (2019). Implementasi payment gateway menggunakan midtrans pada marketplace travnesia. com. Mobile and Forensics, 1(1), 22-29.
+
+Putra, D. A., Sasmita, A., Made, G., & Wiranatha, A. K. A. C. (2020). E-Commerce marketplace petshop menggunakan integrasi rajaongkir API dan iPaymu Payment Gateway API. Jurnal Ilmiah Teknologi dan Komputer, 1(1), 13-22.
+
+Listianto, K. F., Fauzi, R. I., Irviani, R., Kasmi, K., & Garaika, G. (2017). Aplikasi E-Commerce Berbasis Web Mobile Pada Industri Konveksi Seragam Drumband Di Pekon Klaten Gadingrejo Kabupaten Pringsewu. J. TAM (Technol. Accept. Model), 8(2), 146-152.
+
+Syaputra, R., & Ganda, Y. P. W. (2019). Happy Flutter: Membuat Aplikasi Andorid dan iOS dengan Mudah menggunakan Flutter-UDACODING. Udacoding.
+
+Jan, S. R., Shah, S. T. U., Johar, Z. U., Shah, Y., & Khan, F. (2016). An innovative approach to investigate various software testing techniques and strategies. International Journal of Scientific Research in Science, Engineering and Technology (IJSRSET), Print ISSN, 23951990.
